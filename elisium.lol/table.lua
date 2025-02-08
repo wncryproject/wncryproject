@@ -9,7 +9,7 @@ It dosen't work on PC?
 p sure this is chatgpt lock script
 It wont work!
 bro please
---
+--]]
 
 getgenv().Elisium = {
     ['Misc'] = {
